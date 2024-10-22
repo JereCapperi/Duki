@@ -2,7 +2,7 @@
 .wrapper{
     background-image: url('../assets/fondotour.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     padding: 0px 0px 50px 0px;
 }
